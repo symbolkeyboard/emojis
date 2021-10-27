@@ -11,3 +11,17 @@ All emojis consist of official emoji characters, emoji names and meanings listed
 
 The easiest way to quickly **copy and paste emojis**.
 ### List of Emojis
+- [Smiley Emojis](https://github.com/symbolkeyboard/smiley-emojis)
+- [People Emojis](https://github.com/symbolkeyboard/people-emojis)
+- [Nature Emojis](https://github.com/symbolkeyboard/nature-emojis)
+- [Food Emojis](https://github.com/symbolkeyboard/food-emojis)
+- [Activity Emojis](https://github.com/symbolkeyboard/activity-emojis)
+- [Travel Emojis](https://github.com/symbolkeyboard/travel-emojis)
+- [Object Emojis](https://github.com/symbolkeyboard/object-emojis)
+- [Symbol Emojis](https://github.com/symbolkeyboard/symbol-emojis)
+- [Flag Emojis](https://github.com/symbolkeyboard/flag-emojis)
+- [Light Skin Tone Emojis](https://github.com/symbolkeyboard/light-skin-tone-emojis)
+- [Medium Light Skin Tone Emojis](https://github.com/symbolkeyboard/medium-light-skin-tone-emojis)
+- [Medium Skin Tone Emojis](https://github.com/symbolkeyboard/medium-skin-tone-emojis)
+- [Medium Dark Skin Tone Emojis](https://github.com/symbolkeyboard/medium-dark-skin-tone-emojis)
+- [Dark Skin Tone Emojis](https://github.com/symbolkeyboard/dark-skin-tone-emojis)
