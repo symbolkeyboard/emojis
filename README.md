@@ -1,4 +1,4 @@
-# Emojis
+# Unicode Emojis
 [![unicode emojis](https://img.shields.io/badge/github-emojis-green.svg)](https://github.com/symbolkeyboard/emojis)
 [![copy and paste emojis](https://img.shields.io/badge/source-symbolkeyboad.com-orange.svg)](https://symbolkeyboard.com)
 ## Copy and Paste Emojis
